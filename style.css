@@ -3,13 +3,17 @@ body{
     padding: 50px 50px 50px;
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 900;
+    position: relative;
 }
 
 .font-manipulation{
     font-family: "Trebuchet MS", Tahoma, sans-serif;
-    font-size: 30px;
+    border-left: 4px solid;
+    border-image: linear-gradient(salmon, orange);
+    border-image-slice: 1;
+    position: relative;
 }
 
 .half-width{
@@ -77,10 +81,18 @@ h1{
 }
 .foot-note{
     text-align: center;
-    padding: 4px;
-    background-color: rgba(0, 0, 0, 0.555);
+    padding: 5px;
+    background-color: rgba(121, 64, 121, 0.603);
     color: white;
     margin-left: -5em;
     margin-right: -5em;
     margin-bottom: -5em;
+}
+.no-limit{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 5%;
+    background-size: 10%;
+
 }
