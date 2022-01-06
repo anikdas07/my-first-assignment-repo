@@ -37,7 +37,9 @@ h1{
 .first-mission{
     text-align: center;
     font-size: 40px;
-    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
 }
 .color-red{
     color: red;
