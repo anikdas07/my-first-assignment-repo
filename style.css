@@ -73,3 +73,12 @@ h1{
     border-radius: 10px;
     box-shadow: 5px 10px 50px rgb(92, 88, 88);
 }
+.foot-note{
+    text-align: center;
+    padding: 4px;
+    background-color: rgba(0, 0, 0, 0.555);
+    color: white;
+    margin-left: -5em;
+    margin-right: -5em;
+    margin-bottom: -5em;
+}
