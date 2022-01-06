@@ -2,6 +2,11 @@ body{
     font-family: 'Poppins', sans-serif;
     padding: 50px 50px 50px;
 }
+h1{
+    font-size: 30px;
+    font-weight: 900;
+}
+
 .font-manipulation{
     font-family: "Trebuchet MS", Tahoma, sans-serif;
     font-size: 30px;
