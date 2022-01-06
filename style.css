@@ -1,0 +1,60 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 50px 50px 50px;
+}
+.font-manipulation{
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 110px;
+}
+.half-width img{
+    width: 70%;
+    margin-top: -3em;
+    margin-left: 2em;
+}
+.link-switch{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(0, 183, 255, 0.979), rgba(0, 0, 255, 0.678));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.first-mission{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.color-red{
+    color: red;
+}
+.item-box{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 10px;
+    border-radius: 5px;
+    padding-left: 2em;
+}
+.item-box img{
+    width: 50%;
+    margin-left: 2em;
+}
+#first-box{
+    background-color: rgba(231, 201, 162, 0.61);
+}
+#second-box{
+    background-color: rgba(163, 235, 238, 0.61);
+}
+#third-box{
+    background-color: rgba(226, 89, 117, 0.61);
+}
